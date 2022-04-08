@@ -10,5 +10,5 @@
   ],
   "issue_tracker": "https://github.com/schlac/hacs-test/issues",
   "iot_class": "cloud_polling",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
